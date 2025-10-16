@@ -28,7 +28,6 @@ I engineer multidisciplinary systems that fuse mechanical design, electronics, a
 ---
 
 ## ⭐ Featured projects
-Below are a few highlighted projects. Replace these entries with your favorites (repo links + short descriptions).
 
 - [Face recognition](https://github.com/dtrejo0611/proyectoReconocimientoFacial) — Developed in Python, the system identifies faces and, if a match is found in the database, logs the result into an SQL report.
 - 
