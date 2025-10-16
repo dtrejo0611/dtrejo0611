@@ -46,7 +46,5 @@ Download: [Resume PDF](https://your-website.com/resume.pdf)
 
 ---
 
-## 📈 GitHub stats (optional)
-You can include dynamic GitHub stats using services like: 
-- GitHub Readme Stats (https://github.com/anuraghazra/github-readme-stats)
-- GitHub Streak Stats (https://github.com/denvercoder1/github-readme-streak-stats)
+## 📈 GitHub stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dtrejo0611)](https://github.com/anuraghazra/github-readme-stats)
