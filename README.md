@@ -31,9 +31,7 @@ I engineer multidisciplinary systems that fuse mechanical design, electronics, a
 Below are a few highlighted projects. Replace these entries with your favorites (repo links + short descriptions).
 
 - [Face recognition](https://github.com/dtrejo0611/proyectoReconocimientoFacial) — Developed in Python, the system identifies faces and, if a match is found in the database, logs the result into an SQL report.
-- [open-source-lib](https://github.com/yourname/open-source-lib) — A library that solves X problem and is used by Y.
-- [portfolio-site](https://github.com/yourname/portfolio-site) — Personal website showcasing projects, blog posts, and talks.
-
+- 
 ---
 
 ## 📫 Get in touch
@@ -41,10 +39,4 @@ Below are a few highlighted projects. Replace these entries with your favorites 
 
 ---
 
-## 💼 Resume
-Download: [Resume PDF](https://your-website.com/resume.pdf)
 
----
-
-## 📈 GitHub stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dtrejo0611)](https://github.com/anuraghazra/github-readme-stats)
