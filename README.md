@@ -20,7 +20,7 @@ I engineer multidisciplinary systems that fuse mechanical design, electronics, a
 ---
 
 ## 🛠️ Top skills
-- Languages: Python, VHDL, Verilog, C, C++.
+- Languages: Python, VHDL, Verilog, C, C++, MATLAB.
 - Frontend: CSS, HTML
 - Data: SQL
 - Tools: Git
@@ -34,5 +34,19 @@ Below are a few highlighted projects. Replace these entries with your favorites 
 - [open-source-lib](https://github.com/yourname/open-source-lib) — A library that solves X problem and is used by Y.
 - [portfolio-site](https://github.com/yourname/portfolio-site) — Personal website showcasing projects, blog posts, and talks.
 
+---
+
+## 📫 Get in touch
+- Email: dtrejot021106@gmail.com
 
 ---
+
+## 💼 Resume
+Download: [Resume PDF](https://your-website.com/resume.pdf)
+
+---
+
+## 📈 GitHub stats (optional)
+You can include dynamic GitHub stats using services like: 
+- GitHub Readme Stats (https://github.com/anuraghazra/github-readme-stats)
+- GitHub Streak Stats (https://github.com/denvercoder1/github-readme-streak-stats)
