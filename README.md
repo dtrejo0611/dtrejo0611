@@ -5,7 +5,7 @@ A passionate student of Mechatronics Engineering who builds thoughtful, reliable
 ---
 
 ## 🔭 About me
-- Location: [México City, México] (Timezone: [UTC-6])
+- Location: México City, México (Timezone: UTC-6)
 - Pronouns: [they/them, she/her, he/him]
 - Currently: Working on [current project or role]
 - Open to: Freelance, Contract, Full-time opportunities? [Yes / No / Maybe]
