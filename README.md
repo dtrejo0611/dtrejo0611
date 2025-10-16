@@ -13,7 +13,7 @@ A passionate student of Mechatronics Engineering who builds thoughtful, reliable
 
 ## 🚀 What I do
 I engineer multidisciplinary systems that fuse mechanical design, electronics, and control software to create reliable automated solutions. My core activities include:
-- Embedded development: firmware for microcontrollers (ARM, AVR), real-time systems, and hardware interfaces
+- Embedded development: firmware for microcontrollers, real-time systems, and hardware interfaces
 - Controls & automation: PID/advanced control design, sensor fusion, and state estimation
 - Electrical design: PCB design, sensors/actuators selection, and rapid prototyping
 - Validation & manufacturing: test plans, data acquisition, debugging, and preparing designs for production
