@@ -30,8 +30,8 @@ I engineer multidisciplinary systems that fuse mechanical design, electronics, a
 ## ⭐ Featured projects
 
 - [Face recognition](https://github.com/dtrejo0611/proyectoReconocimientoFacial) — Developed in Python, the system identifies faces and, if a match is found in the database, logs the result into an SQL report.
-- [Classification System](https://github.com/dtrejo0611/classification-system) - Implemented in MATLAB, the system inspects captured items and classifies them by type, condition, and color, providing pass/fail decisions and logging results.
-- [Quality control]()
+- [Classification System](https://github.com/dtrejo0611/classification-system) — Implemented in MATLAB, the system inspects captured items and classifies them by type, condition, and color, providing pass/fail decisions and logging results.
+- [Quality control](https://github.com/dtrejo0611/quality-control) — Implemented in Python using PyQt5 and OpenCV, this visual-inspection tool enables camera capture or image simulation, interactive ROI selection, color extraction and template matching tests, and presents combined PASS/FAIL results with annotated images.
 ---
 
 ## 📫 Get in touch
